@@ -1,0 +1,2 @@
+# Exclude all files inside the kubernetes directory
+kubernetes/
